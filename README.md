@@ -50,19 +50,19 @@ Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren k
 ## 📊 Küresel GitHub Performansım
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Albert's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertPikes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Albert's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlbertPikes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertPikes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160px" />
 </p>
 
 ---
 
 ## 🏆 Çalışma Ritim & Katkı Kupaları
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GITHUB_KULLANICI_ADIN&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AlbertPikes&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren k
 
 **Hazır mısınız?** Proje fikrinizi hayata geçirmek için hemen bana ulaşın. WhatsApp üzerinden doğrudan mesaj atabilir veya e-posta gönderebilirsiniz.
 
-[![WhatsApp](https://img.shields.io/badge/Hemen_Mesaj_At-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/WHATSAPP_NUMARANIZ?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.)
+[![WhatsApp](https://img.shields.io/badge/Hemen_Mesaj_At-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+972568144659?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.)
 [![Email](https://img.shields.io/badge/İletişime_Geç-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:E-POSTA_ADRESIN@gmail.com)
 
 > "Kod yazmak, dijital dünyada sanat icra etmektir. En iyisini arıyorsanız, doğru yerdesiniz."
