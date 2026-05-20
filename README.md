@@ -1,8 +1,9 @@
 # ⚡ ALBERT PIKE | FREELANCE DEVELOPER   ⚡
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=HIZ,%20KALİTE,%20GÜVEN&fontSize=50&animation=fadeIn&fontAlignY=45" alt="Header" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.gif" width="100%" alt="Neon Line" />
 </p>
+
 
 ---
 
