@@ -1,4 +1,4 @@
-# ⚡ ALBERT PIKE | PRO FREELANCE YAZILIM MİMARI ⚡
+# ⚡ ALBERT PIKE | FREELANCE DEVELOPER   ⚡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=HIZ,%20KALİTE,%20GÜVEN&fontSize=50&animation=fadeIn&fontAlignY=45" alt="Header" />
@@ -40,14 +40,14 @@ Python ile gelişmiş mobil otomasyonlar, siber güvenlik araçları ve modern w
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org)
 [![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
 
-### 🔧 Diğer Araçlar & İşletim Sistemleri
+### 🔧 Araçlar & İşletim Sistemleri
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)](https://termux.dev)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 
 ---
 
-## 📊 Küresel GitHub Performansım
+## 📊 GitHub Performansım
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertPikes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Albert's GitHub Stats" height="180px" />
@@ -60,7 +60,7 @@ Python ile gelişmiş mobil otomasyonlar, siber güvenlik araçları ve modern w
 
 ---
 
-## 🏆 Çalışma Ritim & Katkı Kupaları
+## 🏆 KupalarıM
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlbertPikes&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
 </p>
@@ -72,7 +72,7 @@ Python ile gelişmiş mobil otomasyonlar, siber güvenlik araçları ve modern w
 **Hazır mısınız?** Proje fikrinizi hayata geçirmek için hemen bana ulaşın. WhatsApp üzerinden doğrudan mesaj atarak projenizin detaylarını iletebilirsiniz.
 
 <p align="center">
-  <a href="https://wa.me/WHATSAPP_NUMARANIZ?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.">
+  <a href="https://wa.me/+972568144659?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.">
     <img src="https://img.shields.io/badge/PROJEYİ_BAŞLAT-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=25" alt="WhatsApp" height="40px" />
   </a>
 </p>
