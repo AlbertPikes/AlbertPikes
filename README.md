@@ -8,7 +8,7 @@
 
 ## 🔱 Vizyon & Yetkinlik
 
-Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren kıdemli bir **Full-Stack Developer & Automation Architect**. Freelance dünyasında hızın, güvenliğin ve sorunsuz çalışabilirliğin ne kadar önemli olduğunu biliyorum. Projelerimde en modern teknolojileri (Neon tasarımlar, Glassmorphism, Microservices) kullanarak, sadece çalışan değil, aynı zamanda büyüleyen yazılımlar inşa ediyorum.
+Python ile gelişmiş mobil otomasyonlar, siber güvenlik araçları ve modern web projeleri geliştiren bir Full-Stack yazılımcıyım.Projelerimde hız, güvenlik ve minimalist tasarımlara odaklanıyorum; sorunsuz çalışan freelance çözümler üretiyorum..
 
 | **Durum:** | **Şu Anda Freelance İşlere Açığım** ✅ |
 | :--- | :--- |
@@ -19,7 +19,7 @@ Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren k
 
 ## 🛠️ Profesyonel Hizmetlerim (Neler Yapabilirim?)
 
-💸 *Projenizi bir sonraki seviyeye taşımak için bu hizmetlerden birini seçin:*
+💸 *Projenizi üst çıtaya taşımak için bizi seçin:*
 
 -   🌀 **Özel Otomasyon Sistemleri:** Web scraping, veri madenciliği, Telegram/Mobil otomasyon botları (Zaman kazandıran çözümler).
 -   🛡️ **Siber Güvenlik & API Geliştirme:** Güvenli, hızlı ve dökümante edilmiş RESTful API'ler ve güvenlik testleri.
@@ -28,7 +28,7 @@ Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren k
 
 ---
 
-## 🧰 Teknolojik Cephanelik
+## 🧰 DİLLER
 
 ### ⚔️ Programlama Dilleri
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -69,9 +69,12 @@ Ben **Albert Pike**, karmaşık dijital sorunları kodla sanata dönüştüren k
 
 ## 📬 Projenizi Başlatın & Bizimle İletişime Geçin
 
-**Hazır mısınız?** Proje fikrinizi hayata geçirmek için hemen bana ulaşın. WhatsApp üzerinden doğrudan mesaj atabilir veya e-posta gönderebilirsiniz.
+**Hazır mısınız?** Proje fikrinizi hayata geçirmek için hemen bana ulaşın. WhatsApp üzerinden doğrudan mesaj atarak projenizin detaylarını iletebilirsiniz.
 
-[![WhatsApp](https://img.shields.io/badge/Hemen_Mesaj_At-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+972568144659?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.)
-[![Email](https://img.shields.io/badge/İletişime_Geç-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:E-POSTA_ADRESIN@gmail.com)
+<p align="center">
+  <a href="https://wa.me/WHATSAPP_NUMARANIZ?text=Merhaba%20Albert,%20freelance%20bir%20proje%20hakkında%20konuşmak%20istiyordum.">
+    <img src="https://img.shields.io/badge/PROJEYİ_BAŞLAT-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=25" alt="WhatsApp" height="40px" />
+  </a>
+</p>
 
 > "Kod yazmak, dijital dünyada sanat icra etmektir. En iyisini arıyorsanız, doğru yerdesiniz."
