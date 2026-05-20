@@ -60,7 +60,7 @@ Python ile gelişmiş mobil otomasyonlar, siber güvenlik araçları ve modern w
 
 ---
 
-## 🏆 KupalarıM
+## 🏆 Kupalarım
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlbertPikes&theme=tokyonight&column=7&margin-w=15" alt="Trophies" />
 </p>
